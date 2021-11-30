@@ -97,7 +97,7 @@ La manera de comprobar el voltaje de los nodos conectamos el multimetro en el no
 
 5. VIDEO
 
- 
+ https://www.youtube.com/watch?v=ZtQLmgfye3c
 
 6. CONCLUSIONES
 
