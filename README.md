@@ -6,7 +6,7 @@
 
 
    Objetivos específicos
-     * conocer el comportamiento de la corriente dentro de diferentes nodos y como estas interactúan con los componentes que integran dichos nodos.
+     * Conocer el comportamiento de la corriente dentro de diferentes nodos y como estas interactúan con los componentes que integran dichos nodos.
      
      * Identificar que tipo de nodos pueden presentarse dentro de un circuito electrico y determinar los nodos principales y nodo referencial.    
      
@@ -101,8 +101,7 @@ La manera de comprobar el voltaje de los nodos conectamos el multimetro en el no
 
 6. CONCLUSIONES
 
-     *Las leyes de Kirchhoff han permitido obtener resultados muy exactos entre los datos obtenidos mediante el desarrollo teórico y la simulación, mismos que fueron recopilados desde tinkercad y proteus. Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del análisis de nodos son precisos por lo que el método es muy fiable para resolver este tipo de circuitos eléctricos.
-
+     * Las leyes de Kirchhoff han permitido obtener resultados muy exactos entre los datos obtenidos mediante el desarrollo teórico y la simulación, mismos que fueron recopilados desde tinkercad y proteus. Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del análisis de nodos son precisos por lo que el método es muy fiable para resolver este tipo de circuitos eléctricos.
 
 7. BIBLIOGRAFÍA 
 
