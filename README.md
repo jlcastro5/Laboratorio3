@@ -1,4 +1,4 @@
-# InformeLaboratorio
+# Informe Laboratorio 3
 1. OBJETIVOS 
 
    Objetivo general
@@ -31,7 +31,7 @@ Para realizar el circuito esquematico utilizamos el software de proteus para ins
 
 ![](https://github.com/jlcastro5/Laboratorio3/blob/bda69e80fc8ed5a16bb9a66295868715f7d66fdd/CIRCUITO1.PNG)
 
-*Figura 3. Circuito en proteus 
+*Figura 3. Circuito en proteus*
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
