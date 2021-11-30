@@ -2,12 +2,18 @@
 1. OBJETIVOS 
 
    Objetivo general
-   
+   *Analizar y comprobar de forma teorica y experimental veracidad que tienen las leyes de kirchhoff con respecto a los voltajes y corrientes de un circuito electrico, esto se llevara a cabo mediante el desarrollo del presente laboratorio  que abordará el tema “Análisis de nodos”  de un circuito eléctrico mixto planteado por el tutor de la asignatura, cabe recalcar que el presente circuito ya ha sido resuelto mediante el analisis de mallas, por lo que se espera los mismos resultados a la practica anterior, para dicho desarrollo, se utilizara simuladores virtuales de circuitos eléctricos los cuales brindaran oportunidad de corroborar la exactitud de los datos teóricos obtenidos.
 
 
    Objetivos específicos
     
-    *
+    *conocer el comportamiento de la corriente dentro de diferentes nodos y como estas interactúan con los componentes que integran dichos nodos.
+     
+     * Identificar que tipo de nodos pueden presentarse dentro de un circuito electrico y determinar los nodos principales y nodo referencial.    
+     
+     *Comprender el uso de la ley de Kirchhoff y como aplicarlo dentro de un circuito mixto utilizando simuladores virtuales que permitan su corroboración o en su defecto permita la localización de fallas.
+ 
+     *Identificar las diferencias obtenidas por medio de la ejecución de un circuito mixto, dichas respuestas serán obtenidas de manera teórica, experimental y de simuladores.
 
 
 2. MARCO TEORICO
@@ -96,7 +102,7 @@ La manera de comprobar el voltaje de los nodos conectamos el multimetro en el no
 
 6. CONCLUSIONES
 
-     *
+     *Las leyes de Kirchhoff han permitido obtener resultados muy exactos entre los datos obtenidos mediante el desarrollo teórico y la simulación, mismos que fueron recopilados desde tinkercad y proteus. Considerando que los elementos son ideales, podemos concluir que los datos obtenidos en este circuito eléctrico a partir del análisis de nodos son precisos por lo que el método es muy fiable para resolver este tipo de circuitos eléctricos.
 
 
 7. BIBLIOGRAFÍA 
