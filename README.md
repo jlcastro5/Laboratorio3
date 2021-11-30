@@ -12,7 +12,7 @@
 
 2. MARCO TEORICO
 
-![]()
+![](https://github.com/jlcastro5/Laboratorio3/blob/a33e1f34601b8068744b9030d64e3b3c137a83ab/MARCO.jpeg)
   
 3. EXPLICACION DEL PROCEDIMIENTO
 
